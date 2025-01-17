@@ -1,5 +1,5 @@
 {
-  "name": "ts-usaint",
+  "name": "tsaint",
   "version": "1.0.0",
   "type": "module",
   "description": "TypeScript로 구현한 u-saint 클라이언트",
@@ -16,7 +16,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/2wndrhs/ts-usaint"
+    "url": "https://github.com/2wndrhs/tsaint"
   },
   "scripts": {
     "build": "tsc && node esbuild.config.js",
@@ -26,7 +26,7 @@
     "@eslint/js": "^9.17.0",
     "esbuild": "^0.24.2",
     "eslint": "^9.17.0",
-    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-prettier": "^10.0.0",
     "globals": "^15.14.0",
     "prettier": "^3.4.2",
     "typescript": "^5.7.3",
